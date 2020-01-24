@@ -1,0 +1,425 @@
+
+/**************Main************/
+
+
+    
+
+    
+}
+.navbar{
+    color: black;
+   
+    
+}
+
+.navbar navbar-expand-lg navbar-light bg-light{
+   
+    padding-left: 10px;
+    
+}
+.card1 {
+  
+    padding-right: 6%;
+    padding-bottom: 8%;
+    padding-left: 6%;
+  
+}
+
+
+.button {
+    background-color:  #009973;
+    font-size: 16px;
+    color: #ffffff;
+   margin-top: 2%;
+    text-align: center;
+   
+}
+
+div.container{
+    
+     padding-top: 4%;
+      padding-right: 4%;
+    padding-bottom: 2%;
+    padding-left: 4%;
+    text-align: center;
+    
+  
+  
+}
+.mainImg{
+    width: 330px;
+    height: 520px;
+    
+}
+
+.jumbotron-fluid-books{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+    
+    
+    
+    
+}
+.mainImgBook{
+    width: 150px;
+    height: 220px;
+    margin: 2%;
+    
+    
+    
+    
+}
+/******** About page*******/
+.card2{
+
+    max-width: 75rem;
+    padding-top: 8%;
+    padding-right: 6%;
+    padding-bottom: 8%;
+    padding-left: 6%;
+    font-size: 18px;
+
+}
+.About{
+    background-color: #ffffff;
+    margin: 1%;
+    padding: 2%;
+    
+    
+}
+
+
+
+/*********** Contact Us***********/
+
+body{
+   
+    background-size: cover;
+    
+}
+.cardAbout{
+   filter: alpha(opacity=60);
+    opacity: 0.6;
+    padding: 7%;
+    padding-top: 10%;
+    margin: 5%;
+    font-size: 20px;
+ 
+    
+}
+.link{
+    color: #000000;
+    font-size: 25px;
+
+    
+}
+
+
+
+/************** destination************/
+
+.card{
+
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+    margin-bottom: 2%;
+
+
+}
+.card-img-top{
+    height: 404px;
+    width: 270px;
+
+
+}
+/***************france**********/
+
+.d-blockw-100{
+    width: 900px;
+    height: 480px;
+    display: block;
+    text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+    
+
+}
+.carousel slide{
+    text-align: center;
+    display: block;
+     margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    
+}
+
+ .fa-shopping-cart {
+  display: inline-block;
+    content: "\f067";
+ 
+  
+}
+.line{
+    display: block;
+    margin: 3%;
+  font-size: 35px;
+ 
+    
+}
+
+.containerr {
+    
+ position: relative;
+ width:200px;
+ height: 200px;
+ border-radius: 50%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top:  4%;
+ margin-bottom: 2%;
+
+    
+}
+
+.image {
+  display: block;
+  width:200px;
+  height: 200px;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:  4%;
+  margin-bottom: 2%;
+
+     
+    
+    
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #009973;
+  width:200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4%;
+  margin-bottom: 2%;
+
+   
+}
+
+.containerr:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+
+   
+
+ 
+}
+
+.jumbotron-fluid{
+ 
+    font-size: 20px;
+padding: 0;
+
+   
+    
+}
+.display-5{
+    margin-left: 1%;
+    margin-top: 0.5px;
+    
+    
+    
+}
+
+.thingsLine{
+    margin-top: 3%;
+    margin-left: 2%;
+    padding: 1%;
+
+    
+}
+.display-4{
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.lead{
+    font-size:25px;
+    
+}
+.jumbotron-container{
+       
+    margin-top: 6%;
+    padding-right: 6%;
+    padding-bottom: 2%;
+    padding-left: 6%;
+    padding-top: 2%;
+    
+}
+
+/***********thingToDoParis***********/
+.mr-3{
+ width: 460px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    
+    
+}
+
+.list-unstyled{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.media{
+    
+        margin-left: auto;
+    margin-right: auto;
+     margin-top: 2%;
+     
+    
+    
+}
+.mt-0mb-1{
+    margin-left: auto;
+    margin-right: auto;
+     margin-top: 5%;
+    
+}
+.pareResrtarant{
+    text-align: left;
+    margin: 5%;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-top: 2%;
+    padding-left: 10px;
+    padding-top: 1pX;
+    font-size:18px;
+     box-shadow: 2.5px 2.5px 2.5px grey;
+    
+    
+}
+
+
+.poi-information-container{
+    font-size: 15px;
+    padding-left: 3%;
+}
+
+
+.card-img-topC{
+    width:270px;
+    height: 175px;
+    
+    
+}
+
+.Hotellink{
+  background-color:  #009973;
+    font-size: 16px;
+    color: #ffffff;
+    margin: 0;
+
+}
+.display-3{
+     text-align: center;
+    
+}
+
+
+
+/***************books*/
+.dropdown-menu{
+background-color: none;
+
+}
+.bookCard{
+    
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+.card-img-topB{
+    width: 150px;
+    height: 220px;
+    
+}
+
+.fab{
+    
+    background-color: #009973:
+}
+
+.jumBook{
+    padding-top: 2%;
+    
+}
+
+.center-block{
+    padding: 2%;
+ margin-left: 80%;
+    margin-right: 5%;
+}
+/****************** cart*******************/
+.cart-item{
+ 
+   padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+   
+    font-size: 20px;
+    
+}
+
+.cart-quant-input{
+    box-sizing: 10px;
+    width: 10%;
+    height: 10%;
+}
+.CartCard{
+  width: 35%;
+    height: 25%;
+    border: 4%;
+    margin: 4%;
+      border-radius: 5%;
+  
+    
+    
+}
+
+.btn-button{
+    background-color: #009973;
+        font-size: 16px;
+    color: #ffffff;
+   margin-top: 2%;
+    text-align: center;
+}
